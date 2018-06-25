@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--男性模式下的资源String-->
+    <string name="name_female">女性模式下的名字：Rose(from female)</string>
+    <string name="sex_female">性别_女(from female)</string>
+    <string name="hobby_female">化妆(from female)</string>
+</resources>

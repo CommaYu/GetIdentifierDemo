@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--男性模式下的资源String-->
+    <string name="name_male">男性模式下的名字：Jake(from male)</string>
+    <string name="sex_male">性别_男(from male)</string>
+    <string name="hobby_male">踢足球(from male)</string>
+</resources>
